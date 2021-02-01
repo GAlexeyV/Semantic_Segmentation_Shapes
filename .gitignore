@@ -1,0 +1,7 @@
+shapes.xcf
+__pycache__
+.ipynb_checkpoints
+test.py
+events.out.tfevents*
+logs/images
+logs/metrics

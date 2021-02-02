@@ -1,5 +1,4 @@
-# Semantic Shapes: Custom Semantic Segmentation Tutorial/ Pipeline
-
+# Semantic Shapes: Custom Semantic Segmentation 
 ![demo](docs/images/demo.gif)
 
 This repository provides a pipeline to develop different semantic segmentation models.
